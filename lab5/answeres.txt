@@ -1,0 +1,4 @@
+1i made each attribute in a profile its own entity variable. it made it easy to set but it makes it harder to pass out from the profile function
+2the profile entity variables are now owned by that ruleset so if anybody want to change them or even know them they have to go thought that ruleset
+3 they declare that they are using that module and then call the function that the module provides
+4 yes the senson profile ruleset would have provide functions to do so and then they would have to use those functinos. so actually i guess the answere is no because the sensorprofile reselt provides no such function as of right now
