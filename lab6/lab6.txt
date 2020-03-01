@@ -1,0 +1,11 @@
+1 it passed the rules i wanted to instal as a parameter rids
+2 they were sent the update profile event from a rule triggered on child initialized event
+3 i wrote it in json. makin 2 sensors and one of them made twice
+    checking to see that there were only 2 and that they had ecis
+    then i grab one of their profiles and matched against what it was suppoed to be
+    then i sent 2 temperatures to each
+    and then i grabbed one of their temperatures one of thier threshold violations and made sure they were the riight size
+    and then test the grab all temps function in the manager
+    then deleted 
+    and made sure he was gone
+4 the manager can make a chanel with the sensors and then give them to the children
